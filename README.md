@@ -8,6 +8,7 @@ TD3 solves the overestimation bias of DDPG. TD3 is based on DDPG with three smar
 - Additive clipped noise on actions
 - Double critics and actors
 - Delayed actors update
+
 This addresses variance and the quality of the value function estimation.
 
 ## After Training GIF:
